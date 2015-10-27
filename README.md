@@ -37,7 +37,7 @@ L.control.thumbnailmap(layerCopy, {
 ### Creation
 Factory                                               | Description
 ----------------------------------------------------- | --- 
-L.control.thumbnailmap(<ILayer> *layer*, *options?* ) | Creates the Thumbnail map control. Needs to be added to a Leaflet map
+L.control.thumbnailmap(`<ILayer>` *layer*, *options?* ) | Creates the Thumbnail map control. Needs to be added to a Leaflet map
 
 #### Options
 The regular L.Control options can be used and additionally:
